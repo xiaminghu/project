@@ -1,0 +1,16 @@
+{
+  "devDependencies": {
+    "vuepress": "^1.5.3",
+    "vuepress-plugin-beautiful-bar": "^1.0.0",
+    "vuepress-plugin-medium-zoom": "^1.1.8"
+  },
+  "scripts": {
+    "dev": "npx vuepress dev docs",
+    "build": "npx vuepress build docs"
+  },
+  "name": "projects",
+  "version": "1.0.0",
+  "description": "the documentation of my projects",
+  "author": "hugo <minghuhugo@163.com>",
+  "license": "GPL"
+}
